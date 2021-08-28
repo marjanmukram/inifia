@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/inifia/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/inifia/static/js/main.446406e3.chunk.js",
-    "main.js.map": "/inifia/static/js/main.446406e3.chunk.js.map",
+    "main.css": "/inifia/static/css/main.7d180cbf.chunk.css",
+    "main.js": "/inifia/static/js/main.26d829df.chunk.js",
+    "main.js.map": "/inifia/static/js/main.26d829df.chunk.js.map",
     "runtime-main.js": "/inifia/static/js/runtime-main.64272d72.js",
     "runtime-main.js.map": "/inifia/static/js/runtime-main.64272d72.js.map",
     "static/js/2.bc50c4dc.chunk.js": "/inifia/static/js/2.bc50c4dc.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.77b3e066.chunk.js": "/inifia/static/js/3.77b3e066.chunk.js",
     "static/js/3.77b3e066.chunk.js.map": "/inifia/static/js/3.77b3e066.chunk.js.map",
     "index.html": "/inifia/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/inifia/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.7d180cbf.chunk.css.map": "/inifia/static/css/main.7d180cbf.chunk.css.map",
     "static/js/2.bc50c4dc.chunk.js.LICENSE.txt": "/inifia/static/js/2.bc50c4dc.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/inifia/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.64272d72.js",
     "static/js/2.bc50c4dc.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.446406e3.chunk.js"
+    "static/css/main.7d180cbf.chunk.css",
+    "static/js/main.26d829df.chunk.js"
   ]
 }
