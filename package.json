@@ -1,5 +1,6 @@
 {
   "name": "inifia",
+  "homepage": "https://marjanmukram.github.io/inifia",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
